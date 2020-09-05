@@ -1,5 +1,5 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-### print(f"Current Status: Following my passion 💻🇮🇳😇")
+### print("Current Status: Following my passion 💻🇮🇳😇")
 <a href="https://discord.gg/qUbApEc">
 </a>
 <a href="https://twitter.com/ACSalian">
