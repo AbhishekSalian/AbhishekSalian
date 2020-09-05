@@ -15,14 +15,13 @@ I am Abhishek Salian 🙂 working on developing cutting edge deep learning produ
 
  <img align="right" alt="GIF" src="https://i.stack.imgur.com/ifmfj.gif" width="500" height="320" />
 
- **My Favourite Formula**
+ #### **My Favourite Formula**
  
  <img align="left" alt="image" src="https://cdn.mos.cms.futurecdn.net/BT4GR5JKJJTudF6kUGEqg7.jpg" width="200" height="100" />
  
  <br />
- <br />
  
-**Talking more about Me**
+#### **Talking more about Me**
 - 🔭 I’m currently working on Speech Signal Processing stuffs
 - 💬 Ask me about Machine Learning, Data Science, IoT
 - Besides techie stuffs I love watching Sci-Fi movies
