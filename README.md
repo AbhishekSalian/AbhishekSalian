@@ -1,5 +1,5 @@
-## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Following my passion 💻🇮🇳😇
+## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### print(f"Current Status: Following my passion 💻🇮🇳😇")
 <a href="https://discord.gg/qUbApEc">
 </a>
 <a href="https://twitter.com/ACSalian">
@@ -11,7 +11,7 @@
 
 <br />
 <br />
-I am Abhishek Salian 🙂 working on developing cutting edge deep learning products 💻 for companies. Currently I am a Data Science Intern at Data Science Wizards. I am deeply passionate about research in machine learning ⭐️ and 🎯 continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
+I am Abhishek Salian 🙂 worki🇮🇳😇ng on developing cutting edge deep learning products 💻 for companies. Currently I am a Data Science Intern at Data Science Wizards. I am deeply passionate about research in machine learning ⭐️ and 🎯 continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
 
  <img align="right" alt="GIF" src="https://i.stack.imgur.com/ifmfj.gif" width="500" height="320" />
 
