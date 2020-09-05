@@ -1,7 +1,8 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ### print("Current Status: Following my passion 💻🇮🇳😇")
-<a href="https://discord.gg/qUbApEc">
-</a>
+
+
+#### if want_to_connect is True:
 <a href="https://twitter.com/ACSalian">
   <img align="left" amazing people!alt="Abhishek Salian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
