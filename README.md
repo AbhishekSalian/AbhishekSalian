@@ -8,8 +8,8 @@
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br>
-I am Abhishek Salian 🙂 working on developing cutting edge deep learning products 💻 for companies. Currently I am a Data Science Intern at Data Science Wizards. I am deeply passionate about research in machine learning ⭐️ and continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
+<br/>
+I am Abhishek Salian 🙂 working on developing cutting edge deep learning products 💻 for companies. Currently I am a Data Science Intern at Data Science Wizards. I am deeply passionate about research in machine learning ⭐️ and 🎯 continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
 
 <!--
 **AbhishekSalian/AbhishekSalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
