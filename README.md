@@ -17,12 +17,12 @@ I am Abhishek Salian 🙂 working on developing cutting edge deep learning produ
 
  #### **My Favourite Formula**
  
- <img align="left" alt="image" src="https://cdn.mos.cms.futurecdn.net/BT4GR5JKJJTudF6kUGEqg7.jpg" width="200" height="100" />
+ <img align="left" alt="image" src="https://cdn.mos.cms.futurecdn.net/BT4GR5JKJJTudF6kUGEqg7.jpg" width="100" height="50" />
  
  <br />
  <br />
  
- \
+ 
  \
  
 #### **Talking more about Me**
