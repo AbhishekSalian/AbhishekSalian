@@ -19,7 +19,7 @@ I am Abhishek Salian 🙂 working on developing cutting edge deep learning produ
 
  <img align="right" alt="GIF" src="https://i.stack.imgur.com/ifmfj.gif" width="500" height="320" />
 
- #### **My Favourite Formula**
+ #### **My Favourite Formula ✔️**
  
  <img align="left" alt="image" src="https://cdn.mos.cms.futurecdn.net/BT4GR5JKJJTudF6kUGEqg7.jpg" width="100" height="50" />
  
@@ -29,7 +29,8 @@ I am Abhishek Salian 🙂 working on developing cutting edge deep learning produ
  
  
 #### **Talking more about Me**
-- 🔭 I’m currently working on Speech Signal Processing stuffs
+- 👨🏻‍💻 I’m currently working on Speech Signal Processing stuffs
+- I also love writing [blogs](https://medium.com/@abhishek.c.salian) 📝 machine learning
 - 💬 Ask me about Machine Learning, Data Science, IoT
-- Besides techie stuffs I love watching Sci-Fi movies and making memes
+- Besides techie stuffs I love watching Sci-Fi movies and making memes😂
 - 🤓 Feel Free to contact me, will be happy to help
