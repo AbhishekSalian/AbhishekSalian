@@ -17,7 +17,7 @@ I am Abhishek Salian 🙂 working on developing cutting edge deep learning produ
 
 
 **Talking about Me**
-- 🔭 I’m currently working on Non-Euclidean Geometric Deep Learning
+- 🔭 I’m currently working on Speech Signal Processing stuffs and Learning Julia
 - 💬 Ask me about Machine Learning, Data Science, IoT
 - Besides techie stuffs I love watching Sci-Fi movies
-- 🤓 Feel Free to contact me, will be happy to help.
+- 🤓 Feel Free to contact me, will be happy to help
