@@ -12,19 +12,10 @@
 <br/>
 I am Abhishek Salian 🙂 working on developing cutting edge deep learning products 💻 for companies. Currently I am a Data Science Intern at Data Science Wizards. I am deeply passionate about research in machine learning ⭐️ and 🎯 continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
 
- <img align="right" alt="GIF" src="https://www.fleetscience.org/sites/default/files/images/neural-mlblog.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/c5/90/8bc5909b0056ee8851e2908f715bdbe7.gif" width="500" height="320" />
 
-<!--
-**AbhishekSalian/AbhishekSalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Me**
+- 🔭 I’m currently working on Non-Euclidean Geometric Deep Learning
+- 💬 Ask me about Machine Learning, Data Science, IoT
+- 🤓 Feel Free to contact me, will be happy to help.
