@@ -9,7 +9,7 @@
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br/>
+
 I am Abhishek Salian 🙂 working on developing cutting edge deep learning products 💻 for companies. Currently I am a Data Science Intern at Data Science Wizards. I am deeply passionate about research in machine learning ⭐️ and 🎯 continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/c5/90/8bc5909b0056ee8851e2908f715bdbe7.gif" width="500" height="320" />
