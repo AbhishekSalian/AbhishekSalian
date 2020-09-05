@@ -16,7 +16,7 @@ I am Abhishek Salian 🙂 working on developing cutting edge deep learning produ
  <img align="right" alt="GIF" src="https://i.stack.imgur.com/ifmfj.gif" width="500" height="320" />
 
 
-**Talking about Me**
+**Talking more about Me**
 - 🔭 I’m currently working on Speech Signal Processing stuffs
 - 💬 Ask me about Machine Learning, Data Science, IoT
 - Besides techie stuffs I love watching Sci-Fi movies
