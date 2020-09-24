@@ -15,7 +15,7 @@
 <br />
 
 ### About Me
-I am Abhishek Salian 🙂 working on developing cutting edge deep learning products 💻 for companies. I am deeply passionate about research in machine learning ⭐️ and 🎯 continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
+I am Abhishek Salian 🙂 love working on developing cutting edge deep learning products/ projects 💻. I am deeply passionate about research in machine learning ⭐️ and 🎯 continuously researching on many topics related to Computer Vision, NLP and Speech Based Technologies.
 
  <img align="right" alt="GIF" src="https://i.stack.imgur.com/ifmfj.gif" width="500" height="320" />
 
