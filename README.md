@@ -29,7 +29,7 @@ I am Abhishek Salian 🙂 love working on developing cutting edge deep learning 
  
  
 #### **Talking more about Me**
-- 👨🏻‍💻 I’m currently working on Speech Signal Processing stuffs
+- 👨🏻‍💻 I’m currently working on Speech Signal Processing & Computer Vision stuffs
 - I also love writing [blogs](https://medium.com/@abhishek.c.salian) 📝 related to machine learning
 - 💬 Ask me about Machine Learning, Data Science, IoT
 - Besides techie stuffs I love watching Sci-Fi movies and making memes😂
