@@ -33,4 +33,4 @@ I am Abhishek Salian 🙂I love developing cutting edge deep learning products/ 
 - I also love writing [blogs](https://medium.com/@abhishek.c.salian) 📝 related to machine learning
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science, IoT
 - Besides techie stuffs I love watching Sci-Fi movies and making memes😂
-- 🤓 Feel Free to contact me, will be happy to help
+- 🤓 Feel Free to contact me, will be happy to help or collaborate for a research project
