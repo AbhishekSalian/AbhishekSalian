@@ -19,9 +19,6 @@ I am Abhishek Salian 🙂 I love developing cutting edge deep learning products/
 
  <img align="right" alt="GIF" src="https://i.stack.imgur.com/ifmfj.gif" width="500" height="320" />
 
- #### **My Favourite Formula ✔️**
- 
- <img align="left" alt="image" src="https://cdn.mos.cms.futurecdn.net/BT4GR5JKJJTudF6kUGEqg7.jpg" width="100" height="50" />
  
  <br />
  <br />
