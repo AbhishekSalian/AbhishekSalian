@@ -5,7 +5,7 @@ Co-Founder & CTO, [Insanity Labs](https://insanitylabs.in)
 
 I research and build intelligent systems — from applied deep learning products to multimodal clinical AI — with a focus on signal processing, robust ML under noise and domain shift, and shipping research into production.
 
-🌐 [Portfolio](https://YOUR-SITE) ·
+🌐 [Portfolio](https://abhisheksalian.com) ·
 💼 [LinkedIn](https://www.linkedin.com/in/~abhisheksalian) ·
 𝕏 [X](https://x.com/acvsalian) ·
 ✍️ [Medium](https://medium.com/@abhisheksalian) ·
@@ -33,4 +33,4 @@ Deep learning systems · computer vision · speech & signal processing · domain
 
 ---
 
-📫 Prefer LinkedIn or email via the [portfolio](https://YOUR-SITE) for collabs.
+📫 Prefer LinkedIn or email via [abhisheksalian.com](https://abhisheksalian.com) for collabs.
