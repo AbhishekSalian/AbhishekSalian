@@ -1,9 +1,10 @@
 # Abhishek Salian
 
-**Machine Intelligence · AI for Medicine · Signal Processing**  
-Co-Founder & CTO, [Insanity Labs](https://insanitylabs.in)
+Machine Intelligence · Signal Processing · AI for Medicine
 
-I research and build intelligent systems — from applied deep learning products to multimodal clinical AI — with a focus on signal processing, robust ML under noise and domain shift, and shipping research into production.
+Co-Founder & CTO, [Insanity Labs](https://insanitylabs.in) · [abhisheksalian.com](https://abhisheksalian.com)
+
+I build and ship deep learning systems end-to-end — research prototypes, distributed training, production inference, and evaluation under real-world noise and domain shift. Much of my work sits at the intersection of **multimodal learning**, **speech/vision/biomedical signals**, and **clinical ML**.
 
 🌐 [Portfolio](https://abhisheksalian.com) ·
 💼 [LinkedIn](https://www.linkedin.com/in/~abhisheksalian) ·
@@ -14,23 +15,30 @@ I research and build intelligent systems — from applied deep learning products
 
 ---
 
-### What I work on
-- **ML systems** — R&D → production: training pipelines, inference, evaluation, MLOps
-- **Perception & signals** — computer vision, speech, biomedical / behavioural signals, multimodal learning
-- **AI for medicine** — trustworthy models for neuropsychiatric and clinical workflows ([Insanity Labs](https://insanitylabs.in))
-- **Open tools** — libraries and internals that make research reusable (e.g. packaging, data tooling)
+### Engineering focus
+- **Training at scale** — multi-GPU / distributed training, mixed precision, checkpointing, experiment tracking
+- **Model systems** — PyTorch training & inference stacks, data pipelines, evaluation harnesses, model compression
+- **Production ML** — packaging, CI, cloud deploy (AWS), monitoring, and moving R&D into maintainable services
+- **Multimodal & signals** — CV, speech, physiological / behavioural signals; robust learning under noise and domain shift
+- **Clinical AI** — uncertainty-aware / interpretable models and evaluation for neuropsychiatric workflows
 
-### Stack I use day to day
-`Python` · `PyTorch` · `NumPy/SciPy` · `OpenCV` · `AWS` · `Docker` · `MLOps` · `GitLab/GitHub CI`
+### Stack
+| Area | Tools |
+|------|--------|
+| Deep learning | `PyTorch`, `torchvision`, `torchaudio`, Lightning / custom trainers |
+| Distributed & scale | `DistributedDataParallel`, multi-GPU, mixed precision (`AMP`), batching & throughput tuning |
+| Data & signals | `NumPy`, `SciPy`, `OpenCV`, audio / biomedical signal pipelines |
+| Serving & infra | `Docker`, `AWS`, CI (GitHub / GitLab), packaging (private PyPI), MLOps basics |
+| Evaluation | metrics, ablations, domain-shift / uncertainty checks, clinical-style validation |
 
 ### Currently
-- Building precision medical AI at **Insanity Labs**
-- Writing on ML systems & computational neuroscience ([Medium](https://medium.com/@abhisheksalian) · [Substack](https://computationalneuroscience.substack.com))
-- Open to research / engineering collaboration on multimodal learning, signal processing, and clinical ML
+- Building production medical AI systems at **Insanity Labs**
+- Writing on ML systems & computational neuroscience
+- Open to collabs on **distributed training**, **multimodal models**, **signal ML**, and **research → product** pipelines
 
 ### Ask me about
-Deep learning systems · computer vision · speech & signal processing · domain shift / uncertainty · taking research into products
+PyTorch training loops · DDP / multi-GPU · speech & vision pipelines · domain adaptation · uncertainty & interpretability · shipping research models
 
 ---
 
-📫 Prefer LinkedIn or email via [abhisheksalian.com](https://abhisheksalian.com) for collabs.
+📫 Collabs: [LinkedIn](https://www.linkedin.com/in/~abhisheksalian) or [abhisheksalian.com](https://abhisheksalian.com)
