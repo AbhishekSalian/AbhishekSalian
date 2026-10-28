@@ -1,33 +1,36 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Abhishek Salian
 
-### print("Current Status: Following my passion 💻🇮🇳😇")
+**Machine Intelligence · AI for Medicine · Signal Processing**  
+Co-Founder & CTO, [Insanity Labs](https://insanitylabs.in)
 
+I research and build intelligent systems — from applied deep learning products to multimodal clinical AI — with a focus on signal processing, robust ML under noise and domain shift, and shipping research into production.
 
-### if want_to_connect is True:
-<a href="https://x.com/acvsalian">
-  <img align="left" amazing people!alt="Abhishek Salian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhishek-c-v-salian/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+🌐 [Portfolio](https://YOUR-SITE) ·
+💼 [LinkedIn](https://www.linkedin.com/in/~abhisheksalian) ·
+𝕏 [X](https://x.com/acvsalian) ·
+✍️ [Medium](https://medium.com/@abhisheksalian) ·
+🧠 [Substack](https://computationalneuroscience.substack.com) ·
+📄 [ResearchGate](https://www.researchgate.net/profile/Abhishek_Salian)
 
-<br />
-<br />
+---
 
-### About Me
-I am Abhishek Salian 🙂. I love developing cutting-edge deep learning products/ projects💻, and more profoundly, I love researching complex subjects. I am deeply passionate about research in machine learning ⭐️ and 🎯, continuously researching many topics related to Computer Vision, NLP and Speech-Based Technologies.
+### What I work on
+- **ML systems** — R&D → production: training pipelines, inference, evaluation, MLOps
+- **Perception & signals** — computer vision, speech, biomedical / behavioural signals, multimodal learning
+- **AI for medicine** — trustworthy models for neuropsychiatric and clinical workflows ([Insanity Labs](https://insanitylabs.in))
+- **Open tools** — libraries and internals that make research reusable (e.g. packaging, data tooling)
 
- <img align="right" alt="GIF" src="https://i.stack.imgur.com/ifmfj.gif" width="500" height="320" />
+### Stack I use day to day
+`Python` · `PyTorch` · `NumPy/SciPy` · `OpenCV` · `AWS` · `Docker` · `MLOps` · `GitLab/GitHub CI`
 
- 
- <br />
- <br />
- 
- 
- 
-#### **Talking more about Me**
-- 👨🏻‍💻 I’m currently working on Speech Signal Processing & Computer Vision stuff
-- I also love writing [blogs](https://medium.com/@abhisheksalian) 📝 related to machine learning
-- 💬 Ask me about Machine Learning, Deep Learning, Data Science, IoT
-- Besides techie stuff, I love watching Sci-Fi movies and making memes😂
-- 🤓 Feel Free to contact me, will be happy to help or collaborate for a research project
+### Currently
+- Building precision medical AI at **Insanity Labs**
+- Writing on ML systems & computational neuroscience ([Medium](https://medium.com/@abhisheksalian) · [Substack](https://computationalneuroscience.substack.com))
+- Open to research / engineering collaboration on multimodal learning, signal processing, and clinical ML
+
+### Ask me about
+Deep learning systems · computer vision · speech & signal processing · domain shift / uncertainty · taking research into products
+
+---
+
+📫 Prefer LinkedIn or email via the [portfolio](https://YOUR-SITE) for collabs.
